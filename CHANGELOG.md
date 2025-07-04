@@ -25,7 +25,7 @@
 - https://github.com/creativetimofficial/notus-nextjs/issues/6
 - https://github.com/creativetimofficial/notus-nextjs/issues/7
 - https://github.com/creativetimofficial/notus-nextjs/issues/8
-- https://github.com/creativetimofficial/notus-react/issues/3
+- https://github.com/creativetimofficial/service-monkey/issues/3
 - https://github.com/creativetimofficial/notus-svelte/issues/3
 - https://github.com/creativetimofficial/notus-svelte/issues/6
 - https://github.com/creativetimofficial/vue-notus/pull/4/

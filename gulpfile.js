@@ -12,9 +12,9 @@ gulp.task("licenses", async function () {
 * Notus React - v1.1.0 based on Tailwind Starter Kit by Creative Tim
 =========================================================
 
-* Product Page: https://www.creative-tim.com/product/notus-react
+* Product Page: https://www.creative-tim.com/product/service-monkey
 * Copyright 2021 Creative Tim (https://www.creative-tim.com)
-* Licensed under MIT (https://github.com/creativetimofficial/notus-react/blob/main/LICENSE.md)
+* Licensed under MIT (https://github.com/creativetimofficial/service-monkey/blob/main/LICENSE.md)
 
 * Tailwind Starter Kit Page: https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation
 
@@ -38,9 +38,9 @@ gulp.task("licenses", async function () {
 * Notus React - v1.1.0 based on Tailwind Starter Kit by Creative Tim
 =========================================================
 
-* Product Page: https://www.creative-tim.com/product/notus-react
+* Product Page: https://www.creative-tim.com/product/service-monkey
 * Copyright 2021 Creative Tim (https://www.creative-tim.com)
-* Licensed under MIT (https://github.com/creativetimofficial/notus-react/blob/main/LICENSE.md)
+* Licensed under MIT (https://github.com/creativetimofficial/service-monkey/blob/main/LICENSE.md)
 
 * Tailwind Starter Kit Page: https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation
 
@@ -64,9 +64,9 @@ gulp.task("licenses", async function () {
 * Notus React - v1.1.0 based on Tailwind Starter Kit by Creative Tim
 =========================================================
 
-* Product Page: https://www.creative-tim.com/product/notus-react
+* Product Page: https://www.creative-tim.com/product/service-monkey
 * Copyright 2021 Creative Tim (https://www.creative-tim.com)
-* Licensed under MIT (https://github.com/creativetimofficial/notus-react/blob/main/LICENSE.md)
+* Licensed under MIT (https://github.com/creativetimofficial/service-monkey/blob/main/LICENSE.md)
 
 * Tailwind Starter Kit Page: https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation
 

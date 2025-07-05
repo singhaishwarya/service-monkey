@@ -14,10 +14,10 @@ export default function Index() {
           <div className="w-full md:w-8/12 lg:w-6/12 xl:w-6/12 px-4">
             <div className="pt-32 sm:pt-0">
               <h2 className="font-semibold text-4xl text-blueGray-600">
-                Notus React - A beautiful extension for Tailwind CSS.
+                Service Monkey - A beautiful extension for Tailwind CSS.
               </h2>
               <p className="mt-4 text-lg leading-relaxed text-blueGray-500">
-                Notus React is Free and Open Source. It does not change any of
+                Service Monkey is Free and Open Source. It does not change any of
                 the CSS from{" "}
                 <a
                   href="https://tailwindcss.com/?ref=creativetim"
@@ -31,7 +31,7 @@ export default function Index() {
               </p>
               <div className="mt-12">
                 <a
-                  href="https://www.creative-tim.com/learning-lab/tailwind/react/overview/notus?ref=nr-index"
+                  href="https://www.service-monkey.com/learning-lab/tailwind/react/overview/notus?ref=nr-index"
                   target="_blank"
                   className="get-started text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-lightBlue-500 active:bg-lightBlue-600 uppercase text-sm shadow hover:shadow-lg ease-linear transition-all duration-150"
                 >
@@ -122,7 +122,7 @@ export default function Index() {
                         CSS Components
                       </h6>
                       <p className="mb-4 text-blueGray-500">
-                        Notus React comes with a huge number of Fully Coded CSS
+                        Service Monkey comes with a huge number of Fully Coded CSS
                         components.
                       </p>
                     </div>
@@ -165,7 +165,7 @@ export default function Index() {
                       </h6>
                       <p className="mb-4 text-blueGray-500">
                         Built by developers for developers. You will love how
-                        easy is to to work with Notus React.
+                        easy is to to work with Service Monkey.
                       </p>
                     </div>
                   </div>
@@ -216,7 +216,7 @@ export default function Index() {
                 </span>
               </div>
               <a
-                href="https://www.creative-tim.com/learning-lab/tailwind/react/alerts/notus?ref=nr-index"
+                href="https://www.service-monkey.com/learning-lab/tailwind/react/alerts/notus?ref=nr-index"
                 target="_blank"
                 className="font-bold text-blueGray-700 hover:text-blueGray-500 ease-linear transition-all duration-150"
               >
@@ -266,7 +266,7 @@ export default function Index() {
               <div className="justify-center flex flex-wrap relative">
                 <div className="my-4 w-full lg:w-6/12 px-4">
                   <a
-                    href="https://www.creative-tim.com/learning-lab/tailwind/svelte/alerts/notus?ref=vtw-index"
+                    href="https://www.service-monkey.com/learning-lab/tailwind/svelte/alerts/notus?ref=vtw-index"
                     target="_blank"
                   >
                     <div className="bg-red-600 shadow-lg rounded-lg text-center p-8">
@@ -281,7 +281,7 @@ export default function Index() {
                     </div>
                   </a>
                   <a
-                    href="https://www.creative-tim.com/learning-lab/tailwind/react/alerts/notus?ref=vtw-index"
+                    href="https://www.service-monkey.com/learning-lab/tailwind/react/alerts/notus?ref=vtw-index"
                     target="_blank"
                   >
                     <div className="bg-lightBlue-500 shadow-lg rounded-lg text-center p-8 mt-8">
@@ -296,7 +296,7 @@ export default function Index() {
                     </div>
                   </a>
                   <a
-                    href="https://www.creative-tim.com/learning-lab/tailwind/nextjs/alerts/notus?ref=vtw-index"
+                    href="https://www.service-monkey.com/learning-lab/tailwind/nextjs/alerts/notus?ref=vtw-index"
                     target="_blank"
                   >
                     <div className="bg-blueGray-700 shadow-lg rounded-lg text-center p-8 mt-8">
@@ -313,7 +313,7 @@ export default function Index() {
                 </div>
                 <div className="my-4 w-full lg:w-6/12 px-4 lg:mt-16">
                   <a
-                    href="https://www.creative-tim.com/learning-lab/tailwind/js/alerts/notus?ref=vtw-index"
+                    href="https://www.service-monkey.com/learning-lab/tailwind/js/alerts/notus?ref=vtw-index"
                     target="_blank"
                   >
                     <div className="bg-yellow-500 shadow-lg rounded-lg text-center p-8">
@@ -328,7 +328,7 @@ export default function Index() {
                     </div>
                   </a>
                   <a
-                    href="https://www.creative-tim.com/learning-lab/tailwind/angular/alerts/notus?ref=vtw-index"
+                    href="https://www.service-monkey.com/learning-lab/tailwind/angular/alerts/notus?ref=vtw-index"
                     target="_blank"
                   >
                     <div className="bg-red-700 shadow-lg rounded-lg text-center p-8 mt-8">
@@ -343,7 +343,7 @@ export default function Index() {
                     </div>
                   </a>
                   <a
-                    href="https://www.creative-tim.com/learning-lab/tailwind/vue/alerts/notus?ref=vtw-index"
+                    href="https://www.service-monkey.com/learning-lab/tailwind/vue/alerts/notus?ref=vtw-index"
                     target="_blank"
                   >
                     <div className="bg-emerald-500 shadow-lg rounded-lg text-center p-8 mt-8">
@@ -404,7 +404,7 @@ export default function Index() {
                 </span>
               </div>
               <a
-                href="https://www.creative-tim.com/learning-lab/tailwind/react/alerts/notus?ref=nr-index"
+                href="https://www.service-monkey.com/learning-lab/tailwind/react/alerts/notus?ref=nr-index"
                 target="_blank"
                 className="font-bold text-blueGray-700 hover:text-blueGray-500 ease-linear transition-all duration-150"
               >
@@ -496,7 +496,7 @@ export default function Index() {
           <div className="w-full md:w-6/12 px-12 md:px-4">
             <h2 className="font-semibold text-4xl">Beautiful Example Pages</h2>
             <p className="text-lg leading-relaxed mt-4 mb-4 text-blueGray-500">
-              Notus React is a completly new product built using our past
+              Service Monkey is a completly new product built using our past
               experience in web templates. Take the examples we made for you and
               start playing with them.
             </p>
@@ -641,7 +641,7 @@ export default function Index() {
               </p>
               <div className="sm:block flex flex-col mt-10">
                 <a
-                  href="https://www.creative-tim.com/learning-lab/tailwind/react/overview/notus?ref=nr-index"
+                  href="https://www.service-monkey.com/learning-lab/tailwind/react/overview/notus?ref=nr-index"
                   target="_blank"
                   className="get-started text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-2 bg-lightBlue-500 active:bg-lightBlue-600 uppercase text-sm shadow hover:shadow-lg ease-linear transition-all duration-150"
                 >

@@ -2,23 +2,23 @@ const gulp = require("gulp");
 const gap = require("gulp-append-prepend");
 
 gulp.task("licenses", async function () {
-  // this is to add Creative Tim licenses in the production mode for the minified js
+  // this is to add Service Monkey licenses in the production mode for the minified js
   gulp
     .src("build/static/js/*chunk.js", { base: "./" })
     .pipe(
       gap.prependText(`/*!
 
 =========================================================
-* Notus React - v1.1.0 based on Tailwind Starter Kit by Creative Tim
+* Service Monkey - v1.1.0 based on Tailwind Starter Kit by Service Monkey
 =========================================================
 
-* Product Page: https://www.creative-tim.com/product/service-monkey
-* Copyright 2021 Creative Tim (https://www.creative-tim.com)
-* Licensed under MIT (https://github.com/creativetimofficial/service-monkey/blob/main/LICENSE.md)
+* Product Page: https://www.service-monkey.com/product/service-monkey
+* Copyright 2021 Service Monkey (https://www.service-monkey.com)
+* Licensed under MIT (https://github.com/servicemonkey/service-monkey/blob/main/LICENSE.md)
 
-* Tailwind Starter Kit Page: https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation
+* Tailwind Starter Kit Page: https://www.service-monkey.com/learning-lab/tailwind-starter-kit/presentation
 
-* Coded by Creative Tim
+* Coded by Service Monkey
 
 =========================================================
 
@@ -28,23 +28,23 @@ gulp.task("licenses", async function () {
     )
     .pipe(gulp.dest("./", { overwrite: true }));
 
-  // this is to add Creative Tim licenses in the production mode for the minified html
+  // this is to add Service Monkey licenses in the production mode for the minified html
   gulp
     .src("build/index.html", { base: "./" })
     .pipe(
       gap.prependText(`<!--
 
 =========================================================
-* Notus React - v1.1.0 based on Tailwind Starter Kit by Creative Tim
+* Service Monkey - v1.1.0 based on Tailwind Starter Kit by Service Monkey
 =========================================================
 
-* Product Page: https://www.creative-tim.com/product/service-monkey
-* Copyright 2021 Creative Tim (https://www.creative-tim.com)
-* Licensed under MIT (https://github.com/creativetimofficial/service-monkey/blob/main/LICENSE.md)
+* Product Page: https://www.service-monkey.com/product/service-monkey
+* Copyright 2021 Service Monkey (https://www.service-monkey.com)
+* Licensed under MIT (https://github.com/servicemonkey/service-monkey/blob/main/LICENSE.md)
 
-* Tailwind Starter Kit Page: https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation
+* Tailwind Starter Kit Page: https://www.service-monkey.com/learning-lab/tailwind-starter-kit/presentation
 
-* Coded by Creative Tim
+* Coded by Service Monkey
 
 =========================================================
 
@@ -54,23 +54,23 @@ gulp.task("licenses", async function () {
     )
     .pipe(gulp.dest("./", { overwrite: true }));
 
-  // this is to add Creative Tim licenses in the production mode for the minified css
+  // this is to add Service Monkey licenses in the production mode for the minified css
   gulp
     .src("build/static/css/*chunk.css", { base: "./" })
     .pipe(
       gap.prependText(`/*!
 
 =========================================================
-* Notus React - v1.1.0 based on Tailwind Starter Kit by Creative Tim
+* Service Monkey - v1.1.0 based on Tailwind Starter Kit by Service Monkey
 =========================================================
 
-* Product Page: https://www.creative-tim.com/product/service-monkey
-* Copyright 2021 Creative Tim (https://www.creative-tim.com)
-* Licensed under MIT (https://github.com/creativetimofficial/service-monkey/blob/main/LICENSE.md)
+* Product Page: https://www.service-monkey.com/product/service-monkey
+* Copyright 2021 Service Monkey (https://www.service-monkey.com)
+* Licensed under MIT (https://github.com/servicemonkey/service-monkey/blob/main/LICENSE.md)
 
-* Tailwind Starter Kit Page: https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation
+* Tailwind Starter Kit Page: https://www.service-monkey.com/learning-lab/tailwind-starter-kit/presentation
 
-* Coded by Creative Tim
+* Coded by Service Monkey
 
 =========================================================
 

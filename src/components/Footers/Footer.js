@@ -67,7 +67,7 @@ export default function Footer() {
                     <li>
                       <a
                         className="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm"
-                        href="https://www.creative-tim.com/presentation?ref=nr-footer"
+                        href="https://www.service-monkey.com/presentation?ref=nr-footer"
                       >
                         About Us
                       </a>
@@ -75,7 +75,7 @@ export default function Footer() {
                     <li>
                       <a
                         className="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm"
-                        href="https://blog.creative-tim.com?ref=nr-footer"
+                        href="https://blog.service-monkey.com?ref=nr-footer"
                       >
                         Blog
                       </a>
@@ -91,7 +91,7 @@ export default function Footer() {
                     <li>
                       <a
                         className="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm"
-                        href="https://www.creative-tim.com/bootstrap-themes/free?ref=nr-footer"
+                        href="https://www.service-monkey.com/bootstrap-themes/free?ref=nr-footer"
                       >
                         Free Products
                       </a>
@@ -114,7 +114,7 @@ export default function Footer() {
                     <li>
                       <a
                         className="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm"
-                        href="https://creative-tim.com/terms?ref=nr-footer"
+                        href="https://service-monkey.com/terms?ref=nr-footer"
                       >
                         Terms & Conditions
                       </a>
@@ -122,7 +122,7 @@ export default function Footer() {
                     <li>
                       <a
                         className="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm"
-                        href="https://creative-tim.com/privacy?ref=nr-footer"
+                        href="https://service-monkey.com/privacy?ref=nr-footer"
                       >
                         Privacy Policy
                       </a>
@@ -130,7 +130,7 @@ export default function Footer() {
                     <li>
                       <a
                         className="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm"
-                        href="https://creative-tim.com/contact-us?ref=nr-footer"
+                        href="https://service-monkey.com/contact-us?ref=nr-footer"
                       >
                         Contact Us
                       </a>
@@ -144,9 +144,9 @@ export default function Footer() {
           <div className="flex flex-wrap items-center md:justify-between justify-center">
             <div className="w-full md:w-4/12 px-4 mx-auto text-center">
               <div className="text-sm text-blueGray-500 font-semibold py-1">
-                Copyright © {new Date().getFullYear()} Notus React by{" "}
+                Copyright © {new Date().getFullYear()} Service Monkey by{" "}
                 <a
-                  href="https://www.creative-tim.com?ref=nr-footer"
+                  href="https://www.service-monkey.com?ref=nr-footer"
                   className="text-blueGray-500 hover:text-blueGray-800"
                 >
                   Creative Tim

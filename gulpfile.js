@@ -9,14 +9,14 @@ gulp.task("licenses", async function () {
       gap.prependText(`/*!
 
 =========================================================
-* Notus React - v1.1.0 based on Tailwind Starter Kit by Creative Tim
+* Service Monkey - v1.1.0 based on Tailwind Starter Kit by Creative Tim
 =========================================================
 
-* Product Page: https://www.creative-tim.com/product/service-monkey
-* Copyright 2021 Creative Tim (https://www.creative-tim.com)
+* Product Page: https://www.service-monkey.com/product/service-monkey
+* Copyright 2021 Creative Tim (https://www.service-monkey.com)
 * Licensed under MIT (https://github.com/creativetimofficial/service-monkey/blob/main/LICENSE.md)
 
-* Tailwind Starter Kit Page: https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation
+* Tailwind Starter Kit Page: https://www.service-monkey.com/learning-lab/tailwind-starter-kit/presentation
 
 * Coded by Creative Tim
 
@@ -35,14 +35,14 @@ gulp.task("licenses", async function () {
       gap.prependText(`<!--
 
 =========================================================
-* Notus React - v1.1.0 based on Tailwind Starter Kit by Creative Tim
+* Service Monkey - v1.1.0 based on Tailwind Starter Kit by Creative Tim
 =========================================================
 
-* Product Page: https://www.creative-tim.com/product/service-monkey
-* Copyright 2021 Creative Tim (https://www.creative-tim.com)
+* Product Page: https://www.service-monkey.com/product/service-monkey
+* Copyright 2021 Creative Tim (https://www.service-monkey.com)
 * Licensed under MIT (https://github.com/creativetimofficial/service-monkey/blob/main/LICENSE.md)
 
-* Tailwind Starter Kit Page: https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation
+* Tailwind Starter Kit Page: https://www.service-monkey.com/learning-lab/tailwind-starter-kit/presentation
 
 * Coded by Creative Tim
 
@@ -61,14 +61,14 @@ gulp.task("licenses", async function () {
       gap.prependText(`/*!
 
 =========================================================
-* Notus React - v1.1.0 based on Tailwind Starter Kit by Creative Tim
+* Service Monkey - v1.1.0 based on Tailwind Starter Kit by Creative Tim
 =========================================================
 
-* Product Page: https://www.creative-tim.com/product/service-monkey
-* Copyright 2021 Creative Tim (https://www.creative-tim.com)
+* Product Page: https://www.service-monkey.com/product/service-monkey
+* Copyright 2021 Creative Tim (https://www.service-monkey.com)
 * Licensed under MIT (https://github.com/creativetimofficial/service-monkey/blob/main/LICENSE.md)
 
-* Tailwind Starter Kit Page: https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation
+* Tailwind Starter Kit Page: https://www.service-monkey.com/learning-lab/tailwind-starter-kit/presentation
 
 * Coded by Creative Tim
 

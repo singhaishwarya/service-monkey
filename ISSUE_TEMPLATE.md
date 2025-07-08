@@ -7,7 +7,7 @@
 -->
 
 <!--
-Love Creative Tim? Do you need Angular, React, Vuejs or HTML? You can visit:
+Love Service Monkey? Do you need Angular, React, Vuejs or HTML? You can visit:
 👉  https://www.service-monkey.com/bundles?ref=nr-new-issue
 👉  https://www.service-monkey.com?ref=nr-new-issue
 -->

@@ -149,7 +149,7 @@ export default function Footer() {
                   href="https://www.service-monkey.com?ref=nr-footer"
                   className="text-blueGray-500 hover:text-blueGray-800"
                 >
-                  Creative Tim
+                  Service Monkey
                 </a>
                 .
               </div>
